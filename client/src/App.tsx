@@ -1,12 +1,5 @@
-import React from 'react';
-
 function App() {
-  return (
-    <div style={{ padding: 20 }}>
-      <h1>BMGii Chat</h1>
-      <p>Добро пожаловать! 🚀</p>
-    </div>
-  );
+  return <h1 style={{ textAlign: 'center', marginTop: 100 }}>Добро пожаловать на мой сайт!</h1>;
 }
 
 export default App;
